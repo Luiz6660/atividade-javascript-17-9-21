@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-radius: 3px;
+    border-width: 3px;
+}

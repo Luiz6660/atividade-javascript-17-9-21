@@ -9,8 +9,8 @@ function media(){
      if(media==10)
       alert("Uau! Aprovado com distinção");
      else
-      alert("Parabens, aprovado! Media "+ media);
+      alert("Parabens, aprovado! Media: "+ media);
     else
-     alert("Reprovado!")
+     alert("Reprovado! Media: "+ media)
 
    }
